@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name     	GoToExplainXKCD
-// @version  	1.2
+// @name      GoToExplainXKCD
+// @version   1.2
 // @match     https://*.xkcd.com/*
-// @grant    	none
+// @grant     none
 // ==/UserScript==
 
 // This script adds a button to xkcd comic pages, that leads to the unofficial wiki for the page
