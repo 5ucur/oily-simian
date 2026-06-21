@@ -1,6 +1,7 @@
 // ==UserScript==
 // @name     	GoToExplainXKCD
-// @version  	1.1
+// @version  	1.2
+// @match			https://*.xkcd.com/*
 // @grant    	none
 // ==/UserScript==
 
