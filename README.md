@@ -24,8 +24,12 @@ Click on the name of a script to be taken directly to the file! Files with a str
   - Good for any fan of the man or his works. But it seems it breaks on *many* pages so ***I recommend against actually using this script***.
   - > "A man is not dead while his name is still spoken."           
 — Going Postal, Chapter 4 prologue [](GNU_Terry_Pratchett)
-- **[GoogleFocusSearchbarImagesVideos](/Scripts/GoogleFocusSearchbarImagesVideos.js)**
+- ~~**[GoogleFocusSearchbarImagesVideos](/Scripts/GoogleFocusSearchbarImagesVideos.js)**~~
+  - **_Seems Google implemented this at some point? But their implementation appears to have broken; use the following item instead!_**
   - Adds the functionality of pressing `/` to focus the search bar in Image and Video searches, just like in the general "All" search.
+  - Useful for quick search bar focusing while searching images or videos, in case you're used to using `/` like I am and don't feel like reaching for the mouse or furiously spamming (Shift +) Tab.
+- **[GoogleFocus](/Scripts/GoogleFocus.js)**
+  - Fixes the apparently broken functionality of pressing `/` to focus the search bar in Google's search pages (of any kind, Image, Video, News, Web, etc)
   - Useful for quick search bar focusing while searching images or videos, in case you're used to using `/` like I am and don't feel like reaching for the mouse or furiously spamming (Shift +) Tab.
 - ~~**[GoogleImagesAddGameplay](/Scripts/GoogleImagesAddGameplay.js)**~~
   - **_Currently not functional due to a redesign of the results header!!_**
